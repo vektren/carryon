@@ -9,9 +9,6 @@ Top carry-on options for travel. To make the list the luggage needs to adhere to
 * Lowest weight to maximize packing space
 
 
-My Carry-On Research
-
-
 | Luggage | Size | Weight | Volume |Price |
 |----------|----------|--------|------|------|
 | [Rimowa Hybrid Checkin](https://www.rimowa.com/au/en/luggage/colour/black/cabin/88353674.html)| 55x40x23 | 3.8 | 37 | $1575|
@@ -19,7 +16,7 @@ My Carry-On Research
 | [Monos CarryOn](https://au.monos.com/products/carry-on?variant=45104849191229) | 56x40x23 | 3.2 | 40  | $320 |
 | [Carl Frederick The Carry-on](https://www.carlfriedrik.com/int/products/the-carry-on-suitcase?colour=grey+/+cognac) | 55x37x24 | 3.9 | 40 | $830 | 
 
-
+## Airline Restrictions
 
 | Airline                  | Cabin Size       | R Cabin | Cabin S | Monos | CF |
 |--------------------------|------------------|-----------------------|-----------------------|---------------|-----------------------------|
