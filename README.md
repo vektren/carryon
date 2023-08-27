@@ -1,5 +1,13 @@
 # carryon
-My Carry-On Research
+Carry-On Research
+
+Top carry-on options for travel. To make the list the luggage needs to adhere to the following
+
+## Criteria
+* Lifetime Warranty
+* Compatible with most Airlines
+* Lowest weight to maximize packing space
+
 
 
 | Luggage | Size | Weight | Volume |Price |
