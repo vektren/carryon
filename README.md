@@ -1,6 +1,6 @@
 # carryon
 My Carry-On Research
-<<<<<<< HEAD
+
 
 | Luggage | Size | Weight | Volume |Price |
 |----------|----------|--------|------|------|
@@ -97,5 +97,4 @@ My Carry-On Research
 | VIRGIN AUSTRALIA         | 56 x 36 x 23     | X                     | X                     | X             | X                           |
 | VUELING                  | 55 x 40 x 20     | X                     | X                     |               | X                           |
 | WIZZ AIR                 | 55 x 40 x 23     | X                     | X                     | X             | X                           |
-=======
->>>>>>> main
+
