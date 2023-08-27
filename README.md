@@ -5,6 +5,7 @@ Top carry-on options for travel. To make the list the luggage needs to adhere to
 
 ## Criteria
 * Lifetime Warranty
+* Clamp Locks (no zip)
 * Compatible with most Airlines
 * Lowest weight to maximize packing space
 
